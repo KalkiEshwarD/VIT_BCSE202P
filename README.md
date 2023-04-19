@@ -1,2 +1,2 @@
 # VIT_BCSE202
-Data Structures and Algorithms (contains both BCSE202L and 202P; Lecture and Practical questions)
+Contains questions posed in the Lab course of Data Structures and Algorithms 
