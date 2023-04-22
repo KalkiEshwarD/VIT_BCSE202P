@@ -85,5 +85,13 @@ int pop(struct Stack *input_stack)
         printf("Error!\n");
         return -1;
     }
-    
+}
+
+int free_stack(struct Stack *input_stack)
+{
+    /*
+        This is a destructor function that deletes the stack data type.
+    */
+        free(input_stack->array);
+        free(input_stack);
 }
