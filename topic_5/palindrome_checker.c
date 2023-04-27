@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "../Topic 2/stack_implementation.h"
+#include "../topic_2/stack_implementation.h"
 #include "linked_list_implementation.h"
 
 
